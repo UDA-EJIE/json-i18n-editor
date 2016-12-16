@@ -1,0 +1,1 @@
+java -jar json-i18n-editor-0.1.0.jar
