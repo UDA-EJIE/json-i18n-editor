@@ -19,6 +19,10 @@ Los ficheros de i18n de los componentes RUP, así como los correspondientes de l
 La aplicación requiere la instalación de un runtime de Java 8 en el equipo.<br>
 http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
+## Descarga
+
+El jar ejecutable se puede descargar desde [aquí](https://github.com/UDA-EJIE/json-i18n-editor/blob/master/dist/json-i18n-editor-0.1.0.jar)
+
 ## Uso
 
 Se debe de seleccionar un fichero de i18n. Automáticamente se cargarán todos los ficheros idiomáticos existentes para ese bundle en el directorio.
